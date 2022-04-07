@@ -1,3 +1,3 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdralves&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdralves&theme=solarized-dark&langs_count=8&layout=compact&Hide_border=true)
-![luisdralves's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdralves&count_private=true&show_icons=true&theme=solarized-dark&Hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisdralves&theme=algolia&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
